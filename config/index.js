@@ -31,7 +31,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oNIn15ghHJsLGuMiF7WkuczJQ0wE",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "zxNzvSn8Vx1OyZWe0W6bEe9w5039HvL5A9bHZC8nq7M",
+      useTemplateId: "9WMA59h0QHId_KxF7i6D5-CGu9z_4OgHzJ7HR3u1_Es",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://wangxinleo.cn"
     }
@@ -42,7 +42,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "DQXlPMM8Gsq-3Txfw3k3LVt5uL_LoqSElVL5EvE52nI	",
+  CALLBACK_TEMPLATE_ID: "DQXlPMM8Gsq-3Txfw3k3LVt5uL_LoqSElVL5EvE52nI",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
