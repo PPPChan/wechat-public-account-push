@@ -63,7 +63,7 @@ export const config = {
   // 所在省份
   PROVINCE: "广东",
   // 所在城市
-  CITY: "惠州",
+  CITY: "深圳市龙华区",
 
   /** 重要节日相关 */
 
